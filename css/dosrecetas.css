@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+img {
+    width: 300px;
+    height: 225px;
+}
+h1 {
+    color: #333;
+    font-size: 20px;
+}
+h2 {
+    color: #666;
+    font-size: 16px;
+}
+p, li {
+    color: #000;
+    font-size: 12px;
+}
+ol, ul {
+    font-family: 'Playfair Display', Arial;
+}
